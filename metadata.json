@@ -1,0 +1,6 @@
+{
+  "name": "GOR SBC - Sistem Booking Meja Pingpong & Website Resmi",
+  "description": "Sistem booking online resmi Meja Pingpong GOR SBC Jagakarsa Jakarta Selatan dengan pembayaran transfer BCA dan dashboard admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
